@@ -1,3 +1,4 @@
 # HR_Data_Analytics
 
-![Bi Report Dashboard](https://github.com/user-attachments/assets/15e1c8e7-9b03-4900-b5ac-93423cc6e369)
+![Bi Report Dashboard](https://github.com/user-attachments/assets/03572e3f-5209-4dcb-8dfa-eb51e36e3d86)
+
